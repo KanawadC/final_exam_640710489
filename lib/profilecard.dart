@@ -58,7 +58,7 @@ class _MyAppState extends State<MyApp> {
             tel: "0889500899",
             learn: "computer science",
             imageUrl:
-                "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F382/production/_123883326_852a3a31-69d7-4849-81c7-8087bf630251.jpg.webp",
+                "https://ichef.bbci.co.uk/news/1024/cpsprodpb/141A2/production/_123883328_4c2a64e0-ae58-449c-8cc2-d971b0618453.jpg.webp",
           ),
         ),
       ),
